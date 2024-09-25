@@ -51,3 +51,5 @@
 # 10. Other topics
 - Ansible vault
 - Dynamic Inventory
+
+[Free labs on Ansible To practice](https://kodekloud.com/pages/free-labs/ansible)
